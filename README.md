@@ -10,6 +10,10 @@ bundle install
 rake db:reset (which will drop, migrate, and then seed db)
 rake server
 
+### Link to backend Github repo:
+https://github.com/abby-anderson/flatiron-marketplace-backend
+
+
 ### The below text comes from Canvas
 
 # Getting Started with Create React App
