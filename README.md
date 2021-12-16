@@ -13,6 +13,8 @@ To get this up and running in the frontend, run:
 
 `npm start`
 
+### Link to backend Github repo:
+https://github.com/abby-anderson/flatiron-marketplace-backend
 
 Note: Since the frontend and backend are in different repositories for this project, you'll have to cd into the backend project folder before moving forward with starting that server. Once there, run:
 
